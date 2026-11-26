@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clinical Guidelines</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>🏥 Clinical Guidelines</h1>
+
+<a href="index.html">← Back to Home</a>
+
+<h2>ABCDE Assessment</h2>
+
+<ul>
+    <li>A - Airway</li>
+    <li>B - Breathing</li>
+    <li>C - Circulation</li>
+    <li>D - Disability</li>
+    <li>E - Exposure</li>
+</ul>
+
+<h2>Chest Pain</h2>
+
+<p>
+Assess pain score, obtain observations, ECG if available,
+and transport to hospital for further assessment.
+</p>
+
+</body>
+</html>
